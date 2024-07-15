@@ -1,3 +1,9 @@
+@font-face {
+    font-family: futurak;
+    src: url(../fonts/futurak.ttf);
+}
+
+
 /* navbar started */
 
 .logo-img{
@@ -38,6 +44,10 @@ circle-btn{
 .arrow-icon{
     font-size: 1.5rem;
 }
+
+a{
+    font-size: 1.6rem;
+}
 /* navbar ended */
 .carousel-img{
 width: 100%;
@@ -46,17 +56,45 @@ width: 100%;
 /* restarauntsection started */
 .img-restaurant{
     background-color: #ffffff;
-    padding: 30px 50px;
+    padding: 30px 35px;
     border-radius: 3px;
 }
 
 .restaurant-btn{
     background-color: #000000;
     border: 1px solid #ffffff;
-    padding: 15px 55px;
-    border-radius: 30px;
+    padding: 15px 45px;
+    border-radius: 25px;
     font-size: 1.3rem;
     color: #ffffff;
     width: 200px;
 }
 /* restarauntsection ended */
+
+.font-futuruk{
+    font-family: futurak;
+    font-size: 5rem;
+}
+
+
+ /*  franchises section started  */
+
+.grey-bg{
+    background-color: #0f0f0f;
+    
+}
+
+.franchise-font{
+    font-size: 3.2rem;
+    font-family: futurak;
+}
+.space-bt{
+    letter-spacing: 5px;
+}
+
+
+.islu-franchise{
+    width: 534.5;
+    
+}
+ /* franchises section ended  */ 

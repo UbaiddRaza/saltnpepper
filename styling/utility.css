@@ -123,13 +123,16 @@ body{
     margin: 5px;
 }
 .mx-1{
-    margin: 0px 5px;
+    margin: 0px 65px;
 }
 .my-1{
     margin: 10px 0px;
 }
 .mt-5{
     margin-top: 20px;
+}
+.mt-6{
+    margin-top: 150px;
 }
 .rounded{
     border-radius: 20px;
@@ -139,6 +142,11 @@ body{
     text-decoration: none;
     color: var(--white);
 }
+.font-1{
+    font-size: 1.5rem;
+}
 
-
+.redtext{
+    color: var(--red);
+}
 /* utility classes ended */

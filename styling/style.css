@@ -93,5 +93,23 @@ width: 100%;
 }
 
 
+.directions-btn{
+    margin-left: 63px;
+    margin-top: 35px;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 25px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+}
+
+.islufranch{
+    margin-left: 800px;
+    align-items: center;
+   position: relative;
+bottom: 230px;
+right: 20px;
+}
+
 
  /* franchises section ended  */ 

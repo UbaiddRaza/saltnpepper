@@ -110,6 +110,27 @@ width: 100%;
 bottom: 230px;
 right: 20px;
 }
+.faslufranch{
+margin-left: 70px;
+position: relative;
+bottom: 80px;
+}
+.express-image{
+border: 1px solid white;
+width: 300px;
+}
+.franchfr{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
 
+}
 
+.image-table{
+   
+    
+    
+    
+}
  /* franchises section ended  */ 

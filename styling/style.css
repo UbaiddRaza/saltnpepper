@@ -130,9 +130,131 @@ justify-content: space-between;
 .text-small{
     margin: 48px;
 }
+.franchise-home-box-content small {
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+    padding-left: 15px;
+}
+    
+.cutsom-row-pdb {
+    margin-bottom: 48px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 110px;
+}
+
+.franchise-home-box-content span.logo-text-hold-second {
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.7rem;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+.fa{
+    font-size: 1.6rem;
+}
+
+.franchise-home-box-content p {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.franchise-home-box-content p a {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    
+}
+
+.franchise-home-box-content a.btn.btn-holds {
+    width: 174px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    padding-top: 15px;
+    margin-top: 40px;
+}
+
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 25rem;
    
-    
-    
-    
+}
+
+a{
+    text-decoration: none;
+}
+
+.arrow-one {
+    padding: 8px 8px 6px;
+}
+.arrow-one {
+    background-color: #fff;
+    color: #dc3545;
+    width: 27px;
+    height: 27px;
+    padding: 5px 8px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+a span{
+    font-weight: 400;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    display: flex;
+    justify-content: space-around   ;
+}
+
 
  /* franchises section ended  */ 

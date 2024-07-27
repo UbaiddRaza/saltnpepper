@@ -60,7 +60,7 @@ p {
     color: #ffffff;
     font-weight: 200
 }
-
+/* 
 .row{
     display: flex;
     flex-wrap: wrap;
@@ -185,4 +185,28 @@ p {
 .move-top{
     
   
+} */
+
+.futurak-font{
+    font-size: 9rem;
+    font-family: futurak;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.main-restaraunt{
+    display: flex;
+}
+.text-1{
+    font-size: 4rem;
+    color: #ffffff;
+    width: 89%;
+    /* height: 100px; */
+    margin-top: 60px;
+    margin-left: 90px;
+}
+.img-first{
+    width: 80%;
+    height: 20%;
+padding-top: 120px;
 }
